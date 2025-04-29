@@ -42,6 +42,7 @@ REQUIRED = [
             'sortedcontainers~=2.4.0',
             'watchdog~=2.3.1',
             'xarray~=2024.2.0',
+	    'numpy~=1.24',
             'zarr~=2.18.7',
             'hstb.drivers @ git+https://github.com/selimnairb/HSTB-drivers.git#egg=hstb.drivers',
             'hstb.shared @ git+https://github.com/selimnairb/HSTB-shared.git#egg=hstb.shared',
